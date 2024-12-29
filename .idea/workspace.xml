@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce27e262-0696-4082-92c5-74fe4f8bb0c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/figma-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/hoa-sen-uni.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/hoanglinhonline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/namiq.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/profile-img-ngs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styleguide.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2qSetgZP25eBo1nWtyU2pB9GW0h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "code.cleanup.on.save": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/personal/porfolio/assets",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\personal\porfolio\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\personal\porfolio" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/porfolio/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce27e262-0696-4082-92c5-74fe4f8bb0c5" name="Changes" comment="" />
+      <created>1734660620225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734660620225</updated>
+      <workItem from="1734660621321" duration="2419000" />
+      <workItem from="1734738567295" duration="176000" />
+      <workItem from="1734738753757" duration="328000" />
+      <workItem from="1734739094771" duration="973000" />
+      <workItem from="1734740087819" duration="10229000" />
+      <workItem from="1734961365027" duration="12654000" />
+      <workItem from="1735224373130" duration="9504000" />
+      <workItem from="1735434567358" duration="13996000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
