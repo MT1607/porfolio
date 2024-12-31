@@ -4,17 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce27e262-0696-4082-92c5-74fe4f8bb0c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/figma-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/hoa-sen-uni.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/hoanglinhonline.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/namiq.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/profile-img-ngs.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/globals.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styleguide.css" afterDir="false" />
+    <list default="true" id="ce27e262-0696-4082-92c5-74fe4f8bb0c5" name="Changes" comment="update js for html file">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/jekyll-docker.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/jekyll-docker.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/jekyll-gh-pages.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/jekyll-gh-pages.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styleguide.css" beforeDir="false" afterPath="$PROJECT_DIR$/styleguide.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +26,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -51,6 +52,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "code.cleanup.on.save": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/personal/porfolio/assets",
@@ -105,11 +107,81 @@
       <workItem from="1734740087819" duration="10229000" />
       <workItem from="1734961365027" duration="12654000" />
       <workItem from="1735224373130" duration="9504000" />
-      <workItem from="1735434567358" duration="13996000" />
+      <workItem from="1735434567358" duration="17817000" />
+      <workItem from="1735654726181" duration="321000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="db9d5e1d-470b-4723-a2c2-2caaac6de4ba" value="EDITOR" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="db9d5e1d-470b-4723-a2c2-2caaac6de4ba">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update js for html file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update js for html file" />
   </component>
 </project>
