@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce27e262-0696-4082-92c5-74fe4f8bb0c5" name="Changes" comment="update js for html file">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/workflows/jekyll-docker.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/jekyll-docker.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/workflows/jekyll-gh-pages.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/jekyll-gh-pages.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/globals.css" afterDir="false" />
@@ -108,7 +108,7 @@
       <workItem from="1734961365027" duration="12654000" />
       <workItem from="1735224373130" duration="9504000" />
       <workItem from="1735434567358" duration="17817000" />
-      <workItem from="1735654726181" duration="321000" />
+      <workItem from="1735654726181" duration="4133000" />
     </task>
     <servers />
   </component>

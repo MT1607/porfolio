@@ -1,15 +1,23 @@
 function handleSubmitContactForm() {
-    let email = document.getElementById("inputEmail4").value;
+    let reply_to = document.getElementById("inputEmail4").value;
     let name = document.getElementById("fullName").value;
     let message = document.getElementById("message").value;
+    let subject = document.getElementById("subject").value;
 
-    if (!email || !name || !message) {
+    if (!reply_to || !name || !message || !subject) {
         alert("Please fill all fields before submitting");
         return;
     }
 
-    const subject = `Contact from ${name}`;
-    const body = `Hi \n\nYou have received a new message:\n\n` + `Name: ${name}\n` + `Email: ${email}\n` + `Best Regard\n` + `${name}`;
+    const params = {
+        name: name,
+        message: message,
+        reply_to: reply_to,
+        subject: subject,
+    }
 
-    window.location.href = `mailto:nguyengiason7@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    emailjs.send("service_v82v3kc", "template_4edluyp", params).then(() => alert("Email sent successfully!")).catch(err => {
+        console.log("Error: ", params)
+        // alert(`Failed to send email. Please try again later.`)
+    });
 }
